@@ -1,0 +1,14 @@
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\C#Task\bin\Debug\net7.0\C#Task.exe
+C:\Users\Pavel\Desktop\C#Task\bin\Debug\net7.0\C#Task.deps.json
+C:\Users\Pavel\Desktop\C#Task\bin\Debug\net7.0\C#Task.runtimeconfig.json
+C:\Users\Pavel\Desktop\C#Task\bin\Debug\net7.0\C#Task.dll
+C:\Users\Pavel\Desktop\C#Task\bin\Debug\net7.0\C#Task.pdb
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.dll
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\refint\C#Task.dll
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.pdb
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\C#Task.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\C#Task\obj\Debug\net7.0\ref\C#Task.dll
